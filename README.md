@@ -29,6 +29,10 @@ Adaptable and dedicated professional with a strong background in data visualizat
 - Created data visualization reports using Excel, incorporating pivot tables, look-up references, Conditional formatting to highlight key insights.
 - Ensured data accuracy and integrity throughout the visualization process.
 
+
+
+  
+
 ### Project 2:
 [**Market Basket Analysis (Retail Supermarket) – Personal Project**]( https://shazeen-memon.github.io/SM--Data-Analysis-Portfolio/)
 - Conducted a market basket analysis using Excel, Power Query and Power Pivot on a retail dataset.
@@ -45,44 +49,7 @@ Adaptable and dedicated professional with a strong background in data visualizat
 - Analysed and presented key performance indicators (KPIs) related to sales, employee performance, and customer relationships.
 - Demonstrated proficiency in data-driven decision-making, actionable insights, and the ability to optimize operations and enhance customer experiences.
 
-## EXPERIENCE
-### July 2023 - Present
-**Data Administrator – Haramain Enterprises**
-- Conducted regular data entry and data quality checks to identify and rectify discrepancies, inconsistencies, and missing information within the datasets.
-- Categorized and organized data into meaningful structures, facilitating efficient retrieval and analysis.
-- Maintained comprehensive records of data sources, transformations, and data entry procedures.
-- Generated reports summarizing data entry processes and provided documentation to support data analysis workflows, ensuring transparency and traceability in the analytical process.
 
-### Jan 2022 - 2023
-**Teaching Assistant, Thorn Grove primary school**
-- Collaborated with teachers to analyse student performance data.
-- Assisted in designing surveys and questionnaires to collect relevant data.
-- Utilized Excel to clean, organize, and visualize data for faculty reports.
-- Conducted statistical analysis to identify trends and correlations in student performance.
-- Communicated findings to faculty members and contributed to data-driven decision-making processes.
 
-## TRAININGS
-- Safeguarding training
-- GDPR Awareness
-- First aid training
-- CPA based Math mastery.
-- E – Safety
+![alt text]()
 
-## EDUCATION
-### August 2023 - Present
-**Data Analysis with Power BI**
-YouExcel – Training
-
-### July 2023
-**Advance MS Excel – Business Intelligence and Data Visualisation**
-YouExcel - Training
-
-### 2018 - 2019
-**GCSE English and Maths (Grade A) – Stockport College**
-
-### 2008
-**Bachelor of Business Administration**
-University of Karachi
-
-## References:
-Available on request.
