@@ -59,7 +59,7 @@ Adaptable and dedicated professional with a strong background in data visualizat
 
 ![](/Sales%20Dashboard%201%20Power%20BI.png)
 
-![](https://github.com/Shazeen-Memon/SM--Data-Analysis-Portfolio/blob/main/Sales%20Dashboard%202%20Power%20BI.png)
+![](/Sales%20Dashboard%202%20Power%20BI.png)
 
-![](https://github.com/Shazeen-Memon/SM--Data-Analysis-Portfolio/blob/main/Sales%20Dashboard%203%20Power%20BI.png)
+![](/Sales%20Dashboard%203%20Power%20BI.png)
 
