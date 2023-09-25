@@ -1,4 +1,3 @@
-# SM--Data-Analysis-Portfolio
 # SHAZEEN MEMON
 **DATA ANALYST | EXCEL AND POWER BI PROFICIENT**
 - *Phone:* 07794478887
