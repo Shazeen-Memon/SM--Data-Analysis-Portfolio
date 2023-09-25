@@ -30,6 +30,10 @@ Adaptable and dedicated professional with a strong background in data visualizat
 - Ensured data accuracy and integrity throughout the visualization process.
 
 
+![](https://github.com/Shazeen-Memon/SM--Data-Analysis-Portfolio/blob/main/Images/Inventory%20Journal.png)
+
+
+![](https://github.com/Shazeen-Memon/SM--Data-Analysis-Portfolio/blob/main/Images/Inventory%20Journal.png)
 
   
 
