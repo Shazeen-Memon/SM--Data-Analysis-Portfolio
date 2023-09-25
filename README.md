@@ -33,7 +33,7 @@ Adaptable and dedicated professional with a strong background in data visualizat
 ![](https://github.com/Shazeen-Memon/SM--Data-Analysis-Portfolio/blob/main/Images/Inventory%20Journal.png)
 
 
-![](https://github.com/Shazeen-Memon/SM--Data-Analysis-Portfolio/blob/main/Images/Inventory%20Journal.png)
+![](https://github.com/Shazeen-Memon/SM--Data-Analysis-Portfolio/blob/main/Images/Excel%20dashboard%20furniture.png)
 
   
 
