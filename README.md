@@ -22,15 +22,15 @@ Adaptable and dedicated professional with a strong background in data visualizat
 - Adaptability and willingness to learn.
 
 ## PROJECTS
-### July 2023
-**Sales Analysis and Inventory Dashboard – Personal Project**
+### Project 1:
+[**Sales Analysis and Inventory Dashboard – Personal Project**]( https://shazeen-memon.github.io/SM--Data-Analysis-Portfolio/)
 - Using Microsoft Excel for data analysis, transformed unorganised, raw data into much clearer and impactful Management Information (MI).
 - Implemented Excel's drop-down lists for creating a user-friendly Inventory journal.
 - Created data visualization reports using Excel, incorporating pivot tables, look-up references, Conditional formatting to highlight key insights.
 - Ensured data accuracy and integrity throughout the visualization process.
 
-### August 2023
-**Market Basket Analysis (Retail Supermarket) – Personal Project**
+### Project 2:
+[**Market Basket Analysis (Retail Supermarket) – Personal Project**]( https://shazeen-memon.github.io/SM--Data-Analysis-Portfolio/)
 - Conducted a market basket analysis using Excel, Power Query and Power Pivot on a retail dataset.
 - Integrated Excel for advanced calculations and data preprocessing.
 - Leveraged Power Query to extract and transform data from various sources.
@@ -38,8 +38,8 @@ Adaptable and dedicated professional with a strong background in data visualizat
 - Used Power BI for data visualization and interactive dashboard creation.
 - Utilized DAX (Data Analysis Expressions) to calculate key performance indicators (KPIs) such as Yearly or Monthly targets and Year to date comparisons.
 
-### September 2023
-**Sales Performance Analysis Dashboard – Personal Project**
+### Project 3:
+[**Sales Performance Analysis Dashboard – Personal Project**]( https://shazeen-memon.github.io/SM--Data-Analysis-Portfolio/)
 - Developed a dynamic Power BI dashboard for a project simulating supermarket retail, utilizing drill through, drill down, tooltips, and interactive visualizations.
 - Created visualizations, including various chart forms and map, to visualize sales trends, identify seasonality patterns, and compare performance across different product categories and stores.
 - Analysed and presented key performance indicators (KPIs) related to sales, employee performance, and customer relationships.
