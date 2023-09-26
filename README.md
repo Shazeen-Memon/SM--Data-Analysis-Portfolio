@@ -3,7 +3,7 @@
 - *Phone:* 07794478887
 - *Location:* Stockport
 - *Email:* SHAZEENMEMON@HOTMAIL.COM
-- *LinkedIn:* [www.linkedin.com/in/shazeen-memon](www.linkedin.com/in/shazeen-memon)
+- *LinkedIn:* [www.linkedin.com/in/shazeen-memon](http://www.linkedin.com/in/shazeen-memon)
 
 ## OBJECTIVE
 Adaptable and dedicated professional with a strong background in data visualization as a Data Analyst Freelancer and a detail-oriented Teaching assistant, committed to continuous learning and growth, seeking the role of Data Analyst to leverage my teamwork skills and apply my expertise in Excel, Power BI to enhance data reporting accuracy and drive strategic decision-making.
