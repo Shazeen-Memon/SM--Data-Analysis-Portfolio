@@ -46,7 +46,7 @@ Adaptable and dedicated professional with a strong background in data visualizat
 - Used Power BI for data visualization and interactive dashboard creation.
 - Utilized DAX (Data Analysis Expressions) to calculate key performance indicators (KPIs) such as Yearly or Monthly targets and Year to date comparisons.
 
-  https://github.com/Shazeen-Memon/SM--Data-Analysis-Portfolio/blob/main/Images/Media1.mp4
+  ![](https://github.com/Shazeen-Memon/SM--Data-Analysis-Portfolio/blob/main/Images/Media1.mp4)
 
 ### Project 3:
 [**Sales Performance Analysis Dashboard – Personal Project**]( https://shazeen-memon.github.io/SM--Data-Analysis-Portfolio/)
