@@ -30,10 +30,10 @@ Adaptable and dedicated professional with a strong background in data visualizat
 - Ensured data accuracy and integrity throughout the visualization process.
 
 
-![](/Images/Inventory%20Journal.png)
+![](./Images/Inventory%20Journal.png)
 
 
-![](/Images/Excel%20dashboard%20furniture.png)
+![](./Images/Excel%20dashboard%20furniture.png)
 
   
 
@@ -57,9 +57,9 @@ Adaptable and dedicated professional with a strong background in data visualizat
 
 
 
-![](/Sales%20Dashboard%201%20Power%20BI.png)
+![](./Sales%20Dashboard%201%20Power%20BI.png)
 
-![](/Sales%20Dashboard%202%20Power%20BI.png)
+![](./Sales%20Dashboard%202%20Power%20BI.png)
 
-![](/Sales%20Dashboard%203%20Power%20BI.png)
+![](./Sales%20Dashboard%203%20Power%20BI.png)
 
