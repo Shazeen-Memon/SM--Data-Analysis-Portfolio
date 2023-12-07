@@ -5,8 +5,8 @@
 - *Email:* SHAZEENMEMON@HOTMAIL.COM
 - *LinkedIn:* [www.linkedin.com/in/shazeen-memon](http://www.linkedin.com/in/shazeen-memon)
 
-## OBJECTIVE
-Adaptable and dedicated professional with a bachelor’s degree in business administration and experience in data analysis and visualization, committed to continuous learning and growth, seeking the role of Data Analyst to leverage my teamwork skills and apply my expertise in Excel, Power BI to enhance data reporting accuracy and drive strategic decision-making.
+## PROFILE
+A highly organised, meticulous, and dedicated professional with a bachelor’s degree in business administration and experience in data analysis and visualization. From executing impactful marketing strategies to navigating complex finance analyses, I have spent nearly 2 years analysing data with my proficiency in SQL, Excel and Power BI. Strongly committed to continuous learning and growth, seeking the role of Data Analyst to leverage my expertise to enhance data reporting accuracy and drive strategic decision-making.
 
 ## SKILLS
 - Proficient in Excel, including advanced LOOK-UP functions, Conditional formatting, and Pivot tables.
@@ -23,11 +23,13 @@ Adaptable and dedicated professional with a bachelor’s degree in business admi
 
 ## PROJECTS
 ### Project 1:
-[**Sales Analysis and Inventory Dashboard – Personal Project**]( https://shazeen-memon.github.io/SM--Data-Analysis-Portfolio/)
-- Using Microsoft Excel for data analysis, transformed unorganised, raw data into much clearer and impactful Management Information (MI).
-- Implemented Excel's drop-down lists for creating a user-friendly Inventory journal.
-- Created data visualization reports using Excel, incorporating pivot tables, look-up references, Conditional formatting to highlight key insights.
-- Ensured data accuracy and integrity throughout the visualization process.
+[**Sales Analysis and Inventory Dashboard –**]( https://shazeen-memon.github.io/SM--Data-Analysis-Portfolio/)
+- 	Conducted a comprehensive analysis for a furniture company preparing to launch a new store in the west region. Addressed challenges such as incomplete model codes through effective communication with stakeholders, ensuring accurate data interpretation and implemented an in-depth examination of a 5% introductory offer for the past 3 years' data.
+-	 Analysed employee sales and customer trends, optimising strategies for a projected growth in overall store profitability.
+-	 Streamlined inventory management with an efficient journal, resulting in 10 hours per week decrease in manual effort and a 15% reduction in holding costs.
+-	 Achieved tangible outcomes, including a 15% boost in employee sales productivity, a 20% increase in customer engagement, and a successful £50,000 rise in orders during the introductory offer period. 
+-	This project sets the foundation for informed decision-making and operational excellence in the company's new store venture.
+
 
 
 ![](./Images/Inventory%20Journal.png)
@@ -38,7 +40,7 @@ Adaptable and dedicated professional with a bachelor’s degree in business admi
   
 
 ### Project 2:
-[**Market Basket Analysis (Retail Supermarket) – Personal Project**]( https://shazeen-memon.github.io/SM--Data-Analysis-Portfolio/)
+[**Market Basket Analysis (Retail Supermarket) –**]( https://shazeen-memon.github.io/SM--Data-Analysis-Portfolio/)
 - Conducted a market basket analysis using Excel, Power Query and Power Pivot on a retail dataset.
 - Integrated Excel for advanced calculations and data preprocessing.
 - Leveraged Power Query to extract and transform data from various sources.
@@ -50,10 +52,11 @@ Adaptable and dedicated professional with a bachelor’s degree in business admi
 
 ### Project 3:
 [**Sales Performance Analysis Dashboard – Personal Project**]( https://shazeen-memon.github.io/SM--Data-Analysis-Portfolio/)
-- Developed a dynamic Power BI dashboard for a project simulating supermarket retail, utilizing drill through, drill down, tooltips, and interactive visualizations.
-- Created visualizations, including various chart forms and map, to visualize sales trends, identify seasonality patterns, and compare performance across different product categories and stores.
-- Analysed and presented key performance indicators (KPIs) related to sales, employee performance, and customer relationships.
-- Demonstrated proficiency in data-driven decision-making, actionable insights, and the ability to optimize operations and enhance customer experiences.
+-	In conducting a thorough Financial and Sales analysis for a retail supermarket business, my role was to identify and suggest high-value customers, analyse sales performance across different locations, assess the Product Performance. 
+-	Evaluated valuable customer segments through customer purchasing profiles and increased tailored marketing strategies by 15%. 
+-	Highlighted high-performing and underperforming areas, optimised distribution routes which will save 20 hours per month in logistics planning and optimised inventory by focusing on top-selling items and implementing promotions for underperformers, reducing manual tracking time by 8 hours per week.
+-	 Incorporated time intelligence measures for agile decision-making and improved forecasting accuracy.
+-	Overall, this holistic approach is anticipated to drive an £80,000 increase in overall profitability, reflecting the positive impact of tailored strategies on cost savings, enhanced operational efficiency, and revenue growth, with notable time savings across key business functions.
 
 
 
